@@ -38,7 +38,17 @@ súbor TestDia.tex, ale po odladení už nie je potrebný. Pri behu TeX-u sa
 generujú aj súbory o priebehu prekladu do dvi Trilogie.log a pomocný, už
 spomínaný súbor, Trilogie.ref.
 
+Testované v emulátore Basilisk II, s ROM Quadra 630, 36 MB RAM, System 7.5.3,
+(v rovnakej konfigurácii, akú som mal možnosť používať niekedy v 2. polovici
+90. rokov). Možné je používať väčšinu funkcií, ktoré umožňuje výstup do dvi,
+ale niektoré funkcie nefungujú (kapitálky, zavesené interpunkčné znamienka);
+generovanie niektorých znakov pomocou OzMF (METAFONT) pri použitom rozlíšení
+vykazuje pre cs-fonty chyby. Zobrazenie bitmapových fontov aj tak nevyzerá veľmi
+dobre. Odporúčam preto používať systémové fonty, ktoré používajú v prehliadači
+DVI pre ich zobrazenie QuickDraw, takže zobrazenie je lepšie (hlavne ak sa
+používa iná, ako 100% veľkosť zobrazenia).
 
-
-
-
+Uvedená verzia OzTeX-u dokonca funguje aj v emulátore vMac, ktorý emuluje Apple
+Macintosh Plus (s 4 MB RAM) so System 7.0.1, tak aby pre beh OzTeX bolo 
+k dispozícii aspoň 3,1 MB RAM. V tomto prípade nie je možný multitasking ani
+s textovým editorom, lebo OzTeX obsadí celú voľnú časť RAM. 

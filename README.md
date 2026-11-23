@@ -58,9 +58,8 @@ dobre. Odporúčam preto používať systémové fonty, ktoré používajú v pr
 DVI pre ich zobrazenie QuickDraw, takže zobrazenie je lepšie (hlavne ak sa
 používa iná, ako 100% veľkosť zobrazenia).
 
-Uvedená verzia OzTeX-u dokonca funguje aj v emulátore vMac, 
+Uvedená verzia OzTeX-u dokonca funguje aj v emulátore vMac, ktorý emuluje 
 https://en.wikipedia.org/wiki/Macintosh_Plus
-ktorý emuluje 
 Apple Macintosh Plus (s 4 MB RAM) so System 7.0.1, tak aby pre OzTeX bolo 
 k dispozícii aspoň 3,1 MB RAM. Dá sa to dosiahnuť potlačením načítania 
 rozšírení (Extensions) a minimalizovaním diskovej cache na hodnotu 32 kB.
@@ -73,4 +72,3 @@ k dispozícia verzia 3, ktorá by umožnila použitie formátu csplain.  Z dôvo
 absencie potrebných systémových fontov a obmedzené použitie QuicDraw pri 
 množstve voľnej RAM, je v tomto prípade použitie obmedzené na bitmapové (.pk)
 cs-fonty.
-

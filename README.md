@@ -44,10 +44,10 @@ súbor TestDia.tex, ale po odladení už nie je potrebný. Pri behu TeX-u sa
 generujú aj súbory o priebehu prekladu do dvi -- Trilogie.log a pomocný súbor
 Trilogie.ref.
 
-Testované v emulátore Basilisk II, s ROM Quadra 630, 36 MB RAM, System 7.5.3,
-(v rovnakej konfigurácii, akú som mal možnosť používať niekedy v 2. polovici
-90. rokov). 
-https://en.wikipedia.org/wiki/Macintosh_Quadra_630
+Testované v emulátore Basilisk II, s ROM Quadra 630 
+https://en.wikipedia.org/wiki/Macintosh_Quadra_630 ,
+36 MB RAM, System 7.5.3, (v rovnakej konfigurácii, akú som mal možnosť používať 
+niekedy v 2. polovici 90. rokov). 
 Možné je používať väčšinu funkcií, ktoré umožňuje výstup do dvi,
 ale niektoré funkcie nefungujú (kapitálky, zavesené interpunkčné znamienka).
 Z tohto dôvodu boli upravené niektoré makrá v ZfSME.tex, aby sa aj pri ich

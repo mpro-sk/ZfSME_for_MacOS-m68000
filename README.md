@@ -9,8 +9,9 @@ OPmac: https://petr.olsak.net/opmac.html
 ZfSME: https://www.overleaf.com/read/qmybtpksbhps
 
 V tomto repozitári sa nachádza podpora pre používanie formátu csplain 
-v distribúcii TeX pre procesory Motorola 680x0 a MacOS7 -- OzTeX 2.1, ako aj
-podpora pre použitie makrobalíkov OPmac a ZfSME pre formát csplain.
+v distribúcii TeX pre procesory Motorola 680x0 a Macintosh System 7 -- 
+OzTeX 2.1, ako aj podpora pre použitie makrobalíkov OPmac a ZfSME pre 
+formát csplain.
 
 Všetky súbory v adresároch majú formátovanie konca riadkov, tak ako sa 
 používalo v klasickom MacOS. Tam kde sa vyskytuje diakritika, sú znaky
@@ -53,7 +54,8 @@ ale niektoré funkcie nefungujú (kapitálky, zavesené interpunkčné znamienka
 Z tohto dôvodu boli upravené niektoré makrá v ZfSME.tex, aby sa aj pri ich
 výbere v nastavení neukončil beh TeX-u chybou.
 Generovanie niektorých znakov pomocou OzMF (METAFONT) pri použitom rozlíšení
-vykazuje pre cs-fonty chyby. Zobrazenie bitmapových fontov aj tak nevyzerá veľmi
+vykazuje pre cs-fonty chyby. Viditeľné je to pri čísliciach 3, 6 a 9, ako aj
+pri písmene veľké B. Zobrazenie bitmapových fontov aj tak nevyzerá veľmi
 dobre. Odporúčam preto používať systémové fonty, ktoré používajú v prehliadači
 DVI pre ich zobrazenie QuickDraw, takže zobrazenie je lepšie (hlavne ak sa
 používa iná, ako 100% veľkosť zobrazenia).

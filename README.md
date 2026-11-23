@@ -2,9 +2,9 @@ ZfSME_for_MacOS-m68000
 
 Add Czech and Slovak language support for Plain TeX in OzTeX (Classic Mac OS).
 
-CSTeX: https://petr.olsak.net/cstex.html
-OPmac: https://petr.olsak.net/opmac.html
-ZfSME: https://www.overleaf.com/read/qmybtpksbhps
+CSTeX: https://petr.olsak.net/cstex.html \nl
+OPmac: https://petr.olsak.net/opmac.html \nl
+ZfSME: https://www.overleaf.com/read/qmybtpksbhps \nl
 
 V tomto repozitári sa nachádza podpora pre používanie formátu csplain 
 v distribúcii TeX pre procesory Motorola 680x0 a MacOS7 -- OzTeX 2.1, ako aj

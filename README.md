@@ -46,7 +46,9 @@ Trilogie.ref.
 
 Testované v emulátore Basilisk II, s ROM Quadra 630, 36 MB RAM, System 7.5.3,
 (v rovnakej konfigurácii, akú som mal možnosť používať niekedy v 2. polovici
-90. rokov). Možné je používať väčšinu funkcií, ktoré umožňuje výstup do dvi,
+90. rokov). 
+https://en.wikipedia.org/wiki/Macintosh_Quadra_630
+Možné je používať väčšinu funkcií, ktoré umožňuje výstup do dvi,
 ale niektoré funkcie nefungujú (kapitálky, zavesené interpunkčné znamienka).
 Z tohto dôvodu boli upravené niektoré makrá v ZfSME.tex, aby sa aj pri ich
 výbere v nastavení neukončil beh TeX-u chybou.
@@ -56,7 +58,9 @@ dobre. Odporúčam preto používať systémové fonty, ktoré používajú v pr
 DVI pre ich zobrazenie QuickDraw, takže zobrazenie je lepšie (hlavne ak sa
 používa iná, ako 100% veľkosť zobrazenia).
 
-Uvedená verzia OzTeX-u dokonca funguje aj v emulátore vMac, ktorý emuluje 
+Uvedená verzia OzTeX-u dokonca funguje aj v emulátore vMac, 
+https://en.wikipedia.org/wiki/Macintosh_Plus
+ktorý emuluje 
 Apple Macintosh Plus (s 4 MB RAM) so System 7.0.1, tak aby pre OzTeX bolo 
 k dispozícii aspoň 3,1 MB RAM. Dá sa to dosiahnuť potlačením načítania 
 rozšírení (Extensions) a minimalizovaním diskovej cache na hodnotu 32 kB.
@@ -69,3 +73,4 @@ k dispozícia verzia 3, ktorá by umožnila použitie formátu csplain.  Z dôvo
 absencie potrebných systémových fontov a obmedzené použitie QuicDraw pri 
 množstve voľnej RAM, je v tomto prípade použitie obmedzené na bitmapové (.pk)
 cs-fonty.
+

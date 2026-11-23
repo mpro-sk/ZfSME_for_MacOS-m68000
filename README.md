@@ -2,6 +2,8 @@ ZfSME_for_MacOS-m68000
 
 Add Czech and Slovak language support for Plain TeX in OzTeX (Classic Mac OS).
 
+OzTeX: https://macintoshgarden.org/apps/oztex-2
+
 CSTeX: https://petr.olsak.net/cstex.html
 
 OPmac: https://petr.olsak.net/opmac.html

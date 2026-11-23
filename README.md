@@ -20,7 +20,7 @@ v kódovaní Mac CE (pre použitie znakov jazykov strednej Európy).
 V adresári OzTeX2.1 sú všetky súbory potrebné pre formát csplain, ktoré stačí
 nakopírovať do adresárovej štruktúry OzTeX. Jedná sa o nové súbory v tejto
 adresárovej štruktúre. Jedinou výnimkou je prepísanie súboru 
-OzTeX2.1:Configs:Default, ktorý umožňuje používať doplnené menu, ako aj
+OzTeX 2.1:Configs:Default, ktorý umožňuje používať doplnené menu, ako aj
 nastavenie parametrov, aby bolo možné robiť úpravy a vytvoriť podľa nich
 vlastný formát csplain.fmt
 

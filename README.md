@@ -15,9 +15,10 @@ v distribúcii TeX pre procesory Motorola 680x0 a Macintosh System 7 --
 OzTeX 2.1, ako aj podpora pre použitie makrobalíkov OPmac a ZfSME pre 
 formát csplain.
 
-Všetky súbory v adresároch majú formátovanie konca riadkov, tak ako sa 
-používalo v klasickom MacOS. Tam kde sa vyskytuje diakritika, sú znaky
-v kódovaní Mac CE (pre použitie znakov jazykov strednej Európy).
+Všetky súbory v adresári ZfSME, aj na mnohých ďaľších miestach, majú 
+formátovanie konca riadkov, tak ako sa používalo v klasickom MacOS. Tam kde
+sa vyskytuje diakritika, sú znaky v kódovaní Mac CE (pre použitie znakov 
+jazykov strednej Európy).
 
 V adresári OzTeX2.1 sú všetky súbory potrebné pre formát csplain, ktoré stačí
 nakopírovať do adresárovej štruktúry OzTeX. Jedná sa o nové súbory v tejto

@@ -58,7 +58,8 @@ vykazuje pre cs-fonty chyby. Viditeľné je to pri čísliciach 3, 6 a 9, ako aj
 pri písmene veľké B. Zobrazenie bitmapových fontov aj tak nevyzerá veľmi
 dobre. Odporúčam preto používať systémové fonty, ktoré používajú v prehliadači
 DVI pre ich zobrazenie QuickDraw, takže zobrazenie je lepšie (hlavne ak sa
-používa iná, ako 100% veľkosť zobrazenia).
+používa iná, ako 100% veľkosť zobrazenia). Pred ich použitím je potrebné, aby
+sa aktivovali cez menu Config > Add System PS Fonts.
 
 Uvedená verzia OzTeX-u dokonca funguje aj v emulátore vMac, ktorý emuluje 
 Apple Macintosh Plus 

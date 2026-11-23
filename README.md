@@ -45,7 +45,7 @@ generujú aj súbory o priebehu prekladu do dvi -- Trilogie.log a pomocný súbo
 Trilogie.ref.
 
 Testované v emulátore Basilisk II, s ROM Quadra 630 
-https://en.wikipedia.org/wiki/Macintosh_Quadra_630 ,
+https://en.wikipedia.org/wiki/Macintosh_Quadra_630,
 36 MB RAM, System 7.5.3, (v rovnakej konfigurácii, akú som mal možnosť používať 
 niekedy v 2. polovici 90. rokov). 
 Možné je používať väčšinu funkcií, ktoré umožňuje výstup do dvi,

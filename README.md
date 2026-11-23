@@ -2,6 +2,10 @@ ZfSME_for_MacOS-m68000
 
 Add Czech and Slovak language support for Plain TeX in OzTeX (Classic Mac OS).
 
+CSTeX: https://petr.olsak.net/cstex.html
+OPmac: https://petr.olsak.net/opmac.html
+ZfSME: https://www.overleaf.com/read/qmybtpksbhps
+
 V tomto repozitári sa nachádza podpora pre používanie formátu csplain 
 v distribúcii TeX pre procesory Motorola 680x0 a MacOS7 -- OzTeX 2.1, ako aj
 podpora pre použitie makrobalíkov OPmac a ZfSME pre formát csplain.
@@ -23,11 +27,11 @@ písacieho stroja (pomocou prepínača \tt) sa v tomto prípade používa systé
 font Courier. Pokiaľ by niektoré z týchto fontov chýbali v adresári
 System Folder:Fonts, je možné ich doplniť do tohto adresára.
 
-Adresár obsahuje makrá opmac.tex a upravený ams-math.tex (redukcia načítania
-fontov), ktorý opmac volá, ako aj makrá ZfSME2.tex, ktorý môže volať súbory
-AKindle.tex a BBQ10.tex upravujúce veľkosť strany a formátovanie pre konkrétne
-zariadenia, epsf.tex pre načítanie obrázkov vo formáte eps a pomocné makro 
-NumOn.tex pre opätovné zapnutie číslovania položiek obsahu.
+Adresár ZfSME obsahuje makrá opmac.tex a upravený ams-math.tex (redukcia 
+načítania fontov), ktorý opmac volá, ako aj makrá ZfSME2.tex, ktorý môže volať
+súbory AKindle.tex a BBQ10.tex upravujúce veľkosť strany a formátovanie pre
+konkrétne zariadenia, epsf.tex pre načítanie obrázkov vo formáte eps a pomocné
+makro NumOn.tex pre opätovné zapnutie číslovania položiek obsahu.
 
 Makrá z balíkov opmac a ZfSME sa používajú pri preklade súboru Trilogie.tex,
 ktorého výstupom je Trilogie.dvi (možné zobraziť integrovaným prhliadačom 

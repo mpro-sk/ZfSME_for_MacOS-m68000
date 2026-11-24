@@ -64,7 +64,7 @@ DVI pre ich zobrazenie QuickDraw, takže zobrazenie je lepšie (hlavne ak sa
 používa iná, ako 100% veľkosť zobrazenia). Pred ich použitím je potrebné, aby
 sa aktivovali cez menu Config > Add System PS Fonts.
 
-Uvedená verzia OzTeX-u dokonca funguje aj v emulátore vMac, ktorý emuluje 
+Uvedená verzia OzTeX-u dokonca funguje aj v emulátore Mini vMac, ktorý emuluje 
 Apple Macintosh Plus 
 https://en.wikipedia.org/wiki/Macintosh_Plus
 (s 4 MB RAM) so System 7.0.1, tak aby pre OzTeX bolo 
